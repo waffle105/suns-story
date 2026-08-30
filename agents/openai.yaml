@@ -1,0 +1,7 @@
+interface:
+  display_name: "冷叙事故事写作"
+  short_description: "用克制冷峻、数字反差与物件回声创作原创中文故事"
+  default_prompt: "使用 $suns-story，按指定主题和篇幅写一篇冷峻克制、富有细节回声的中文故事。"
+
+policy:
+  allow_implicit_invocation: true
